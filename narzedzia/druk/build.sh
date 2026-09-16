@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 # Buduje wersje do druku (PDF) i edytowalne (DOCX) konspektów cyklu
-# „12 Kroków na drodze do wolności” oraz pliku „założenia i komentarz”.
+# „12 Kroków na drodze do wolności” (12 spotkań + spotkania łączone z folderu
+# „10 spotkań”) oraz pliku „założenia i komentarz”.
 #
 # Wymaga: pandoc (w PATH albo w zmiennej PANDOC), Google Chrome, perl (jest w Git Bash).
 # Użycie (Git Bash, z katalogu FOZ-ZOE):
@@ -49,6 +50,14 @@ for f in "$CYKL/12 spotkań"/krok-*.md; do
   name="$(basename "$f" .md)"
   n="$(grep -m1 '^krok:' "$f" | awk '{print $2}')"
   build_one "$f" "$name" "12 Kroków na drodze do wolności · Krok $n z 12"
+done
+
+# Spotkania łączone (wersja 10-spotkaniowa), np. kroki-02-03-….md
+for f in "$CYKL/10 spotkań"/kroki-*.md; do
+  [ -e "$f" ] || continue
+  name="$(basename "$f" .md)"
+  a="$(echo "$name" | cut -d- -f2)"; b="$(echo "$name" | cut -d- -f3)"
+  build_one "$f" "$name" "12 Kroków na drodze do wolności · Kroki $((10#$a))–$((10#$b)) z 12 (spotkanie łączone)"
 done
 
 build_one "$CYKL/12 Kroków na drodze do wolności - założenia i komentarz.md" \

@@ -14,7 +14,8 @@ Jeśli oba dokumenty mówią co innego, **pierwszeństwo ma ta instrukcja**.
 | Liczba spotkań | 12 — jedno spotkanie na jeden krok |
 | Kolejność kroków | według [12 Kroków na drodze do wolności.md](12%20Kroków%20na%20drodze%20do%20wolności.md) |
 | Materiał wyjściowy | analizy w [../źródła/analizy-ai/](../źródła/analizy-ai/) — porównanie kroków z Pismem, ojcami Kościoła, św. Ignacym i nauczaniem papieży |
-| Folder na konspekty | [12 spotkań/](12%20spotkań/) — wersja bazowa: 12 spotkań, jeden krok na spotkanie (ewentualne łączenie kroków w wersję 10-spotkaniową — osobno, w folderze `10 spotkań/`) |
+| Folder na konspekty | [12 spotkań/](12%20spotkań/) — wersja bazowa: 12 spotkań, jeden krok na spotkanie |
+| Spotkania łączone | [10 spotkań/](10%20spotkań/) — konspekty łączące dwa kroki (2+3, 6+7, 8+9, 10+11); wybierając dwa z nich, zamiast odpowiednich konspektów bazowych, dostaje się cykl 10 spotkań (zasady: część 7) |
 | Wersje do druku | [do-druku/](do-druku/) — PDF i DOCX generowane skryptem; zasady: [instrukcja publikacji na Google Drive](../instrukcja-publikacji-google-drive.md) |
 
 **Główna oś: niewola grzechu.** Kroki czytamy jako drogę nawrócenia — wyjścia z niewoli grzechu. Uzależnienie jest jedną z form tej niewoli, nie osią cyklu. Uzasadnienie, rozróżnienie pojęć (grzech, wada, pożądliwość, uzależnienie) i źródła: [założenia i komentarz do cyklu](12%20Kroków%20na%20drodze%20do%20wolności%20-%20założenia%20i%20komentarz.md). Konspekt MUSI te pojęcia rozróżniać i używać formuły „o własnych siłach” przy mówieniu o bezsilności.
@@ -186,13 +187,14 @@ Przed pisaniem przeczytaj: instrukcję ogólną, tę instrukcję, plik z tekstem
 - augustinus.it blokuje pobieranie automatyczne (tekst łaciński listów Augustyna trzeba sprawdzić ręcznie).
 - Dokumenty papieży przedsoborowych na vatican.va mają zwykle tylko przekład angielski/włoski/łaciński → przekład roboczy ze znacznikiem **przekład**. Numery punktów podawaj według tekstu, z którego tłumaczysz; jeśli numer ustalasz pośrednio — dopisz to w znaczniku.
 - Adhortacje *Haerent animo* (Pius X) i *Menti nostrae* (Pius XII) są skierowane do kapłanów — zaznacz to przy cytacie.
+- **Przenosząc cytat z innego konspektu, porównuj go z tekstem źródłowym (teksty pomocnicze, BT, KKK), a nie z omówieniem.** Omówienie może zawierać skrót, który nie jest dosłowny — przy tworzeniu spotkań łączonych tak znaleziono dwa błędy w kroku 9 (Łk 14,28: „nie usiądzie wpierw i nie oblicza wydatków”; Pius XI: „z pewnego jeszcze mocniejszego tytułu sprawiedliwości i miłości”). Pomaga automatyczne porównanie: każdy fragment w „…” z pliku ↔ tekst cytatów blokowych, BT i KKK; trafienia bez dopasowania przejrzeć ręcznie (często to własne sformułowania albo różnica wielkości liter).
 
 ---
 
 ## 5. Lista kontrolna (dodatkowa do instrukcji ogólnej 5.4)
 
-- [ ] Brak miesiąca i roku; w nagłówku „Krok N z 12”
-- [ ] Nazwa pliku `krok-NN-slug.md`, frontmatter z polami `krok`, `tekst_kroku`, `status`
+- [ ] Brak miesiąca i roku; w nagłówku „Krok N z 12” (spotkanie łączone: „kroki N i M z 12”)
+- [ ] Nazwa pliku `krok-NN-slug.md`, frontmatter z polami `krok`, `tekst_kroku`, `status` (spotkanie łączone: `kroki-NN-MM-slug.md`, pola jak w 7.2)
 - [ ] Tekst kroku w cytacie blokowym
 - [ ] Co najmniej 3 propozycje z Ewangelii do dzielenia się słowem, z uzasadnieniem
 - [ ] Namiot Spotkania: co najmniej 2 teksty z Ewangelii
@@ -232,4 +234,40 @@ Stan zgodny z konspektami w [12 spotkań/](12%20spotkań/) (wersja bazowa, wrzes
 
 Ignacjańskie teksty w konspektach: ĆD 23 (1), 234 (3), 43 (4), 153-155 (6), 24-27 (10), 318 (11).
 
+Spotkania łączone (folder [10 spotkań/](10%20spotkań/)):
+
+| Kroki | Temat | Zobowiązanie wiodące (+ pytanie dodatkowe) | Tajemnica różańca | Ewangelia wiodąca |
+|---|---|---|---|---|
+| 2+3 | Wiara i powierzenie | spotkanie ze słowem Bożym (+ modlitwa małżeńska) | Zwiastowanie | Łk 1,26-38 |
+| 6+7 | Gotowość i pokorna prośba | rekolekcje formacyjne (+ modlitwa rodzinna) | Dźwiganie krzyża (albo Ustanowienie Eucharystii) | Mk 10,17-27 i 10,46-52 |
+| 8+9 | Naprawianie krzywd | modlitwa małżeńska i rodzinna (+ dialog małżeński) | Ukrzyżowanie | Łk 19,1-10 |
+| 10+11 | Czuwanie i modlitwa | Namiot Spotkania (+ reguła życia) | Zesłanie Ducha Świętego (albo Znalezienie w świątyni) | Mt 26,36-46 |
+
 Wzorcowy konspekt cyklu: [krok-01-bezsilnosc.md](12%20spotkań/krok-01-bezsilnosc.md). **Uwaga:** konspekt kroku 1 powstał przed zmianą osi cyklu na „niewolę grzechu” — ma nowe brzmienie kroku, ale treść omówienia nadal wychodzi od uzależnienia; do ewentualnego przepracowania.
+
+---
+
+## 7. Spotkania łączone i wersja 10-spotkaniowa
+
+### 7.1. Założenie
+- Wersją bazową jest 12 spotkań ([12 spotkań/](12%20spotkań/)). Folder [10 spotkań/](10%20spotkań/) zawiera **konspekty łączone** dla par kroków: **2+3, 6+7, 8+9, 10+11**.
+- Pary można wybierać **elastycznie**. Każde łączone spotkanie zastępuje dwa konspekty bazowe: jedno połączenie daje 11 spotkań, dwa — 10 (rok formacyjny wrzesień–czerwiec), trzy — 9, cztery — 8.
+- Kroki 1, 4, 5 i 12 **zawsze** mają osobne spotkanie (krok 1 buduje zaufanie i zasady kręgu; 4 i 5 wymagają pracy między spotkaniami; 12 podsumowuje cykl).
+- Rekomendacja duszpasterska przy 10 spotkaniach: **2+3 i 6+7** (łączą kroki postawy, nie skracają kroków wymagających działania). Połączenie 8+9 wymaga szczególnej uwagi — patrz 7.3.
+
+### 7.2. Budowa konspektu łączonego
+- **Nazwa pliku:** `kroki-NN-MM-slug.md`, np. `kroki-02-03-wiara-i-powierzenie.md`.
+- **Frontmatter:** zamiast `krok` i `tekst_kroku` — `kroki: [N, M]` i lista `teksty_krokow` (brzmienie dokładnie jak w pliku kroków), dodatkowo `wersja: "spotkanie łączone"` i `zastepuje: [pliki bazowe]`.
+- **Nagłówek:** „spotkanie łączone: kroki N i M z 12”; pod tytułem oba teksty kroków w jednym cytacie blokowym; pod mottem odnośnik do obu konspektów bazowych („pełniejsze omówienie”).
+- **Nawiązanie do poprzedniego spotkania** MUSI działać przy każdym wyborze par — np. „Nawiązując do poprzedniego spotkania (krok 7 albo kroki 6 i 7)”. Podobnie „przygotować się do kolejnego spotkania (krok 8 albo spotkanie łączone kroków 8 i 9)”.
+- **Jedno zobowiązanie wiodące** + jedno **pytanie dodatkowe** o zobowiązanie drugiego kroku. Dobór jest taki, że przy połączeniu wszystkich czterech par każde z zobowiązań DK nadal pojawia się w cyklu jako wiodące (tabela w części 6).
+- **Jedna tajemnica różańca** (MOŻNA podać alternatywę) i **jedna Ewangelia wiodąca** obejmująca oba kroki; wymagania z 2.4 (co najmniej 3 propozycje z Ewangelii, Namiot Spotkania z 2 tekstami z Ewangelii) obowiązują bez zmian.
+- **Omówienie** łączy treść obu kroków w jeden tok (np. z podtytułami „On może / Pozwolę Mu”), a nie dwa sklejone omówienia; jeden akapit „Gdzie analogia pęka” i jeden komentarz małżeński, z zachowaniem wszystkich zasad z 3.1, które dotyczą któregokolwiek z kroków.
+- **Teksty pomocnicze:** co najmniej jeden ojciec Kościoła i jeden papież przedsoborowy (2.5); teksty z konspektów bazowych, których nie przeniesiono, wskazać jednym zdaniem („w konspekcie kroku N wersji bazowej”).
+- **Treść** bierze się z konspektów bazowych — nie dodaje się nowych cytatów bez weryfikacji (4.4). Znaczniki 🔍 przenosi się razem z akapitem, którego dotyczą; wykaz miejsc do sprawdzenia tworzy się od nowa.
+- Po każdej zmianie konspektu bazowego sprawdź, czy tej samej zmiany nie wymaga konspekt łączony (i odwrotnie).
+
+### 7.3. Zasady szczególne
+- **8+9:** konspekt MUSI zawierać uwagę dla pary animatorskiej, że połączenie kroków nie oznacza wykonania listy i zadośćuczynienia w jednym miesiącu — najpierw lista i rozeznanie, potem działanie, nawet przez wiele miesięcy.
+- **10+11:** Ogrójec (Mt 26,36-46) jako perykopa wiodąca świadomie wraca do tajemnicy z kroku 1 — oznaczone znacznikiem **adaptacja** do decyzji pary animatorskiej.
+- Wersje do druku spotkań łączonych generuje ten sam skrypt ([instrukcja publikacji](../instrukcja-publikacji-google-drive.md)); stopka: „Kroki N–M z 12 (spotkanie łączone)”.

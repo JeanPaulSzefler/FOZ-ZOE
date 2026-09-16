@@ -9,7 +9,7 @@ Dokument opisuje, jak z plików `.md` w repozytorium przygotować materiały got
 | Element | Ustalenie |
 |---|---|
 | Folder docelowy na Google Drive | `DK/konspekty-spotkań/12kroków` (cykl „12 Kroków na drodze do wolności”) |
-| Zawartość | 12 konspektów (`krok-01` … `krok-12`) + `00-zalozenia-i-komentarz` |
+| Zawartość | 12 konspektów (`krok-01` … `krok-12`), 4 spotkania łączone do wersji 10-spotkaniowej (`kroki-02-03`, `kroki-06-07`, `kroki-08-09`, `kroki-10-11`) + `00-zalozenia-i-komentarz` |
 | Wersja do druku | **PDF** (A4) — plik, który się drukuje i rozsyła parom |
 | Wersja edytowalna | **DOCX** — po wgraniu na Drive można ją otworzyć jako Dokument Google i nanosić uwagi |
 | Źródło prawdy | pliki `.md` w repozytorium; PDF i DOCX są zawsze generowane z nich, nie edytowane ręcznie |
@@ -37,7 +37,7 @@ PANDOC=/c/sciezka/pandoc-3.11/pandoc.exe bash narzedzia/druk/build.sh
 **Wynik:** `12-kroków-konspekty-spotkań/do-druku/pdf/*.pdf` oraz `…/do-druku/docx/*.docx`.
 
 **Co robi skrypt:**
-1. pandoc zamienia `.md` na HTML;
+1. pandoc zamienia `.md` na HTML — konspekty z `12 spotkań/`, spotkania łączone z `10 spotkań/` (stopka „Kroki N–M z 12 (spotkanie łączone)”) i plik „założenia i komentarz”;
 2. `post.pl` oznacza ramki 🔍 jako „do sprawdzenia”, wyróżnia tekst kroku i znaczniki `[DO …]`, a przy linkach dopisuje adres (na papierze link nie jest klikalny);
 3. Chrome w trybie bez okna drukuje HTML do PDF (A4, stopka z nazwą cyklu i numerem kroku, numeracja „str. X / Y”);
 4. pandoc tworzy równolegle DOCX.
