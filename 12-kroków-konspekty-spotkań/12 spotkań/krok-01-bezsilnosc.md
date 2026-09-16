@@ -2,7 +2,7 @@
 typ: konspekt
 cykl: "12 Kroków na drodze do wolności"
 krok: 1
-tekst_kroku: "Przyznaliśmy, że jesteśmy bezsilni wobec uzależnienia – że nasze życie stało się niekierowalne."
+tekst_kroku: "Przyznaliśmy, że o własnych siłach jesteśmy bezsilni wobec uzależnienia (grzechu) – że nasze życie stało się niekierowalne."
 temat: "Bezsilność — „beze Mnie nic nie możecie uczynić”"
 metoda: "A: tekst+pytania"
 zobowiazanie_wiodace: "Namiot Spotkania"
@@ -14,7 +14,7 @@ autorzy: "[DO UZUPEŁNIENIA]"
 
 *Konspekt spotkania kręgu — cykl „12 Kroków na drodze do wolności”, krok 1 z 12*
 
-> **Krok 1.** Przyznaliśmy, że jesteśmy bezsilni wobec uzależnienia – że nasze życie stało się niekierowalne.
+> **Krok 1.** Przyznaliśmy, że o własnych siłach jesteśmy bezsilni wobec uzależnienia (grzechu) – że nasze życie stało się niekierowalne.
 
 **Cel spotkania:** uznanie prawdy, że są w naszym życiu obszary, nad którymi sami nie panujemy; rozróżnienie chrześcijańskiej pokory od rezygnacji i od zrzucania odpowiedzialności; zachęta, by swoją słabość nazwać przed Bogiem i przed współmałżonkiem, zamiast ją ukrywać.
 

@@ -14,7 +14,8 @@ Jeśli oba dokumenty mówią co innego, **pierwszeństwo ma ta instrukcja**.
 | Liczba spotkań | 12 — jedno spotkanie na jeden krok |
 | Kolejność kroków | według [12 Kroków na drodze do wolności.md](12%20Kroków%20na%20drodze%20do%20wolności.md) |
 | Materiał wyjściowy | analizy w [../źródła/analizy-ai/](../źródła/analizy-ai/) — porównanie kroków z Pismem, ojcami Kościoła, św. Ignacym i nauczaniem papieży |
-| Folder na konspekty | ten folder — [12-kroków-konspekty-spotkań/](./) |
+| Folder na konspekty | [12 spotkań/](12%20spotkań/) — wersja bazowa: 12 spotkań, jeden krok na spotkanie (ewentualne łączenie kroków w wersję 10-spotkaniową — osobno, w folderze `10 spotkań/`) |
+| Wersje do druku | [do-druku/](do-druku/) — PDF i DOCX generowane skryptem; zasady: [instrukcja publikacji na Google Drive](../instrukcja-publikacji-google-drive.md) |
 
 **Główna oś: niewola grzechu.** Kroki czytamy jako drogę nawrócenia — wyjścia z niewoli grzechu. Uzależnienie jest jedną z form tej niewoli, nie osią cyklu. Uzasadnienie, rozróżnienie pojęć (grzech, wada, pożądliwość, uzależnienie) i źródła: [założenia i komentarz do cyklu](12%20Kroków%20na%20drodze%20do%20wolności%20-%20założenia%20i%20komentarz.md). Konspekt MUSI te pojęcia rozróżniać i używać formuły „o własnych siłach” przy mówieniu o bezsilności.
 
@@ -139,6 +140,19 @@ Zasady:
 5. **Zdanie o pomocy specjalistycznej** w tekście lub teksty pomocnicze: krąg nie zastępuje terapii ani sakramentu pokuty; podać, gdzie szukać pomocy (poradnia, AA / Al-Anon, KWC, duszpasterz, osoba towarzysząca duchowo).
 6. **Sekcja „Gdzie analogia pęka”** — krótki akapit w omówieniu tematu, co w danym kroku różni ujęcie AA od nauczania Kościoła (materiał jest w analizach). Chroni przed utożsamieniem 12 Kroków z drogą sakramentalną.
 7. **Wykaz miejsc do sprawdzenia** na końcu.
+8. **Nawiązanie do poprzedniego kroku** w „Dzieleniu się życiem” (od kroku 2) — jedno pytanie o owoc pracy z ubiegłego miesiąca.
+9. **Sekcja „Gdzie szukać pomocy”** jako ostatni tekst pomocniczy, dopasowana do tematu kroku (np. przemoc przy krokach 3 i 7, skrupuły przy 4 i 10, porada prawna przy 9).
+
+### 3.1. Zasady duszpasterskie wypracowane przy krokach 2–12
+Konspekt MUSI je uwzględnić, gdy temat ich dotyczy:
+- **Na kręgu nie dzielimy się treścią** rachunku sumienia, wyznania ani listy skrzywdzonych osób (kroki 4, 5, 8, 9) — tylko doświadczeniem drogi. Krąg nie jest miejscem spowiedzi.
+- **Przebaczenie ≠ pojednanie.** Przebaczyć można zawsze; powrót do bliskiej relacji z kimś, kto nadal krzywdzi, nie jest obowiązkiem (krok 8).
+- **Pokora ≠ zgoda na krzywdę**, a „powierzenie woli Bogu” nie uzasadnia podporządkowania się przemocy lub manipulacji (kroki 3, 7).
+- **Wola Boża w małżeństwie** nie jest objawiana jednemu z małżonków wbrew drugiemu (krok 11).
+- **Wyznanie w małżeństwie wymaga roztropności** — sprawy bardzo trudne (zdrada, nałóg, długi) najpierw rozeznaje się ze spowiednikiem, osobą towarzyszącą duchowo lub terapeutą (kroki 5, 9).
+- **Rachunek ze swojego życia, nie współmałżonka** (kroki 4, 10); dialog małżeński zaczyna się od siebie i od wdzięczności.
+- **Gotowość do uwolnienia się od nałogu obejmuje gotowość do przyjęcia leczenia** (krok 6); niesienie orędzia innym nie oznacza przejmowania roli terapeuty (krok 12).
+- **Nie sugerować, że brak uzdrowienia świadczy o słabej wierze** (krok 2).
 
 ---
 
@@ -159,7 +173,19 @@ Przed pisaniem przeczytaj: instrukcję ogólną, tę instrukcję, plik z tekstem
 - Analizy zawierają **parafrazy podane jak cytaty** i błędne numery (np. różne numery punktów tego samego dokumentu, różne daty *Mens nostra*). Nie przepisuj ich bez sprawdzenia.
 - Opisy dokumentów papieskich w analizach bywają ogólnikowe („papież podkreśla…”) i nie odpowiadają konkretnemu fragmentowi. Do konspektu wchodzi tylko fragment odnaleziony w tekście.
 - Nie cytuj oficjalnego tekstu Kroków AA (chroniony prawem autorskim, AAWS). Używaj brzmienia z pliku źródłowego cyklu.
-- Unikaj źródeł internetowych środowisk pozostających poza jednością z Kościołem (np. blogi sedewakantystyczne), nawet jeśli mają przekład. Wtedy linkuj do vatican.va i oznacz przekład do weryfikacji z wydaniem drukowanym.
+- Unikaj źródeł internetowych środowisk pozostających poza jednością z Kościołem (np. blogi sedewakantystyczne, a także ultramontes.pl i piusx.org.pl — tam są m.in. przekłady św. Cypriana i *Katechizmu św. Piusa X*), nawet jeśli mają przekład. Wtedy linkuj do vatican.va / newadvent.org i oznacz przekład do weryfikacji z wydaniem drukowanym.
+- Analizy AI cytują wypowiedzi o. E. Dowlinga SJ — sprawdzaj je w tekście *Catholic Asceticism and the Twelve Steps* (silkworth.net); część jest trafna (np. krok 6 „oddziela mężczyzn od chłopców”, „żelazny związek między upokorzeniem, pokorą i pomocą Bożą”).
+
+### 4.4. Weryfikacja cytatów — wskazówki praktyczne
+- **Każdy werset biblijny** (także krótkie cytaty w omówieniu, w części modlitewnej i w zakończeniu) pobierz i porównaj z tekstem **przed** wpisaniem. Nie cytuj z pamięci — przy krokach 2–12 kilkanaście wersetów pisanych z pamięci różniło się od BT.
+- Serwis biblia-online.pl ma pojedyncze literówki (np. Mt 5,24 „przez ołtarzem”, Łk 12,40 „której się domyślacie”, 2 Kor 1,7 „co dla was”). Takie miejsca oznacz znacznikiem **źródło** do porównania z wydaniem drukowanym.
+- **KKK**: tekst polski na katechizm.opoka.org.pl, strony (kodowanie iso-8859-2): `kkkI-1-3` (142–184), `kkkI-2-1` (198–421), `kkkII-2-1` (1212–1419), `kkkII-2-2` (1420–1532), `kkkIII-1-1` (1700–1876), `kkkIII-1-3` (1949–2051), `kkkIII-2-2` (2196–2557), `kkkIV-1-1` (2566–2649), `kkkIV-1-2` (2650–2696), `kkkIV-1-3` (2697–2758), `kkkIV-2` (2759–2865).
+- **Uwaga:** KKK 1435 zawiera słowa „kierownictwo duchowe” — nie cytować (patrz 2.8).
+- KKK 1458 zawiera oficjalny polski przekład fragmentu św. Augustyna (*Komentarz do Ewangelii św. Jana* 12,13) — lepszy niż przekład roboczy.
+- **Wikiźródła** (*Wyznania* św. Augustyna, przekł. Pękalski 1847): tytuł strony zakoduj procentowo i pobierz z `action=render`; w transkrypcji zdarzają się błędy (np. „wspomóżco”, „prawdziwka”) — oznacz je znacznikiem **przekład**.
+- augustinus.it blokuje pobieranie automatyczne (tekst łaciński listów Augustyna trzeba sprawdzić ręcznie).
+- Dokumenty papieży przedsoborowych na vatican.va mają zwykle tylko przekład angielski/włoski/łaciński → przekład roboczy ze znacznikiem **przekład**. Numery punktów podawaj według tekstu, z którego tłumaczysz; jeśli numer ustalasz pośrednio — dopisz to w znaczniku.
+- Adhortacje *Haerent animo* (Pius X) i *Menti nostrae* (Pius XII) są skierowane do kapłanów — zaznacz to przy cytacie.
 
 ---
 
@@ -177,26 +203,33 @@ Przed pisaniem przeczytaj: instrukcję ogólną, tę instrukcję, plik z tekstem
 - [ ] Zdanie o tajemnicy kręgu i o pomocy specjalistycznej
 - [ ] Brak pojęć „kierownictwo duchowe” / „kierownik duchowy” — zamiast nich towarzyszenie duchowe lub doradzanie w sprawach rozwoju duchowego (2.8)
 - [ ] Znaczniki 🔍 DO SPRAWDZENIA nad wątpliwymi akapitami + wykaz na końcu
+- [ ] `tekst_kroku` i cytat pod tytułem identyczne z [plikiem kroków](12%20Kroków%20na%20drodze%20do%20wolności.md)
+- [ ] Każdy werset biblijny porównany z pobranym tekstem BT (4.4)
+- [ ] Zasady duszpasterskie z 3.1 uwzględnione, jeśli dotyczą tematu
+- [ ] Perykopy, tajemnica różańca i zobowiązanie wiodące nie powtarzają się z innymi krokami bez uzasadnienia (tabela w części 6)
+- [ ] Wersje PDF i DOCX wygenerowane ponownie po zmianach ([instrukcja publikacji](../instrukcja-publikacji-google-drive.md))
 
 ---
 
 ## 6. Tabela pomocnicza: kroki, zobowiązania, tropy
 
-Propozycja robocza — do potwierdzenia przy pisaniu kolejnych konspektów.
+Stan zgodny z konspektami w [12 spotkań/](12%20spotkań/) (wersja bazowa, wrzesień 2026). Przy zmianach aktualizuj tabelę, żeby nie powtarzać perykop, tajemnic i cytatów.
 
-| Krok | Temat | Zobowiązanie wiodące | Tajemnica różańca (propozycja) | Główne tropy z analiz |
-|---|---|---|---|---|
-| 1 | Bezsilność | Namiot Spotkania | Modlitwa w Ogrójcu | Rz 7; Łk 15,17; J 5,6-7; J 15,5; Augustyn *Wyznania* VIII; Leon XIII *Libertas*; Pius X *E supremi* |
-| 2 | Wiara w Siłę większą | spotkanie ze słowem Bożym | — | Mk 5,15; Mk 9,24; Augustyn *Wyznania* I,1; Pius XII *Mystici corporis* |
-| 3 | Powierzenie woli i życia | modlitwa małżeńska | Zwiastowanie | Łk 22,42; Łk 1,38; *Suscipe*; Leon XIII *Libertas* 11; Pius XII *Mediator Dei* |
-| 4 | Inwentura moralna | reguła życia | — | Ps 139; Lm 3,40; ĆD 24-43; Katechizm św. Piusa X |
-| 5 | Wyznanie | dialog małżeński | — | Jk 5,16; Łk 15,21; ĆD 44; Pius XII *Mystici corporis* |
-| 6 | Gotowość | reguła życia | — | Mt 19,16-22; J 5,6; ĆD 149-157; Pius XI *Mens nostra* |
-| 7 | Pokorna prośba | Namiot Spotkania | — | Łk 18,13; Mk 1,40; ĆD 165-168; Pius XII *Haurietis aquas* |
-| 8 | Lista skrzywdzonych | dialog małżeński | — | Mt 5,23-24; Łk 19,8; Tomasz *restitutio*; Pius XII *Summi pontificatus* |
-| 9 | Zadośćuczynienie | modlitwa rodzinna | — | Łk 19,1-10; Rz 12,18; ĆD 230 |
-| 10 | Stały rachunek sumienia | reguła życia | — | 1 Kor 10,12; Mt 26,41; ĆD 24-31; Pius X *Haerent animo* |
-| 11 | Modlitwa i rozeznawanie | Namiot Spotkania | — | Mt 6,10; J 6,38; ĆD 313-336; Pius XI *Mens nostra* |
-| 12 | Przebudzenie i posłanie | rekolekcje formacyjne | — | Mk 5,19; Łk 22,32; 2 Kor 1,3-4; Pius X *Il fermo proposito* |
+| Krok | Temat | Zobowiązanie wiodące | Tajemnica różańca | Ewangelia wiodąca | Ojcowie Kościoła | Papieże przedsoborowi |
+|---|---|---|---|---|---|---|
+| 1 | Bezsilność | Namiot Spotkania | Modlitwa w Ogrójcu | J 5,1-9 | Augustyn *Wyznania* VIII,5; X,29; Kasjan *Rozmowy* X,10 | Leon XIII *Libertas* 6; Pius X *E supremi* 6, 8 |
+| 2 | Wiara | spotkanie ze słowem Bożym | Wesele w Kanie | Mk 9,14-29 | Augustyn *Wyznania* I,1; Ignacy Antiocheński *Do Efezjan* 7 | Leon XIII *Tametsi futura* 5-6; Benedykt XV *Spiritus Paraclitus* 63 |
+| 3 | Powierzenie | modlitwa małżeńska | Zwiastowanie | Łk 1,26-38 | Augustyn *Wyznania* IX,1 | Leon XIII *Annum sacrum* 7-8; Pius XII *Mediator Dei* 99, 104 |
+| 4 | Rachunek sumienia | reguła życia | Ofiarowanie w świątyni | Mk 7,14-23 | Augustyn *Wyznania* X,2; X,5 | Pius X *Haerent animo* (rachunek sumienia) |
+| 5 | Wyznanie | dialog małżeński | Głoszenie królestwa i wezwanie do nawrócenia | J 20,19-23 | Augustyn *Komentarz do J* 12,13 (za KKK 1458) | Pius XII *Mystici corporis* 88 |
+| 6 | Gotowość | rekolekcje formacyjne | Dźwiganie krzyża | Mk 10,17-27 | Augustyn *Wyznania* VIII,7; Kasjan *Rozmowy* V,14 | Leon XIII *Exeunte iam anno* 10; Pius XI *Mens nostra* |
+| 7 | Pokorna prośba | modlitwa rodzinna | Ustanowienie Eucharystii | Mk 10,46-52 | Augustyn *List* 118,22 | Leon XIII *Mirae caritatis* 8 |
+| 8 | Lista skrzywdzonych | dialog małżeński | Chrzest w Jordanie | Mt 5,20-24 | Cyprian *O modlitwie Pańskiej* 22-23 | Benedykt XV *Pacem, Dei munus* 8 |
+| 9 | Zadośćuczynienie | modlitwa małżeńska i rodzinna | Ukrzyżowanie | Łk 19,1-10 | Jan Chryzostom *Homilie na Mt* 16 | Pius XI *Miserentissimus Redemptor* 6-7 |
+| 10 | Codzienny rachunek | reguła życia | Znalezienie w świątyni | Łk 12,35-40 | Atanazy *Życie św. Antoniego* 55 | Pius XII *Menti nostrae* 51 |
+| 11 | Modlitwa i wola Boża | Namiot Spotkania | Zesłanie Ducha Świętego | Łk 11,1-13 | Cyprian *O modlitwie Pańskiej* 14; Augustyn *List* 130,18 | Benedykt XV *Spiritus Paraclitus* 43; Pius XII *Mediator Dei* 32 |
+| 12 | Przebudzenie i posłanie | wszystkie — podsumowanie cyklu | Nawiedzenie | Mk 5,1-20 (w. 18-20) | Augustyn *Wyznania* X,3-4 | Pius X *Il fermo proposito* 3, 11 |
 
-Wzorcowy konspekt cyklu: [krok-01-bezsilnosc.md](krok-01-bezsilnosc.md).
+Ignacjańskie teksty w konspektach: ĆD 23 (1), 234 (3), 43 (4), 153-155 (6), 24-27 (10), 318 (11).
+
+Wzorcowy konspekt cyklu: [krok-01-bezsilnosc.md](12%20spotkań/krok-01-bezsilnosc.md). **Uwaga:** konspekt kroku 1 powstał przed zmianą osi cyklu na „niewolę grzechu” — ma nowe brzmienie kroku, ale treść omówienia nadal wychodzi od uzależnienia; do ewentualnego przepracowania.

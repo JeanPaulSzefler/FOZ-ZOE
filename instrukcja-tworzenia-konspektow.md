@@ -386,6 +386,7 @@ Wariant dla metody B (ERŻ) — zamień punkt "2. Omówienie tematu" na:
 ### 5.2. Zakazy
 - **NIE wymyślaj cytatów** ani nie przypisuj autorom słów, których nie masz w dostępnych źródłach. Nie wymyślaj numerów stron ani punktów dokumentów.
 - Jeśli cytat pochodzi z pamięci i nie da się go zweryfikować w repozytorium, oznacz go: `[DO WERYFIKACJI: brzmienie / strona]`.
+- **Nie cytuj Pisma Świętego z pamięci** — dotyczy to także krótkich wersetów w części modlitewnej, motcie i zakończeniu. Każdy werset porównaj z pobranym tekstem Biblii Tysiąclecia; drobne różnice (szyk, jedno słowo) są częste i łatwe do przeoczenia.
 - Jeśli brak cytatu z danego źródła, zostaw pole: `[DO UZUPEŁNIENIA: cytat ks. F. Blachnickiego na temat ...]` zamiast pisać tekst "w stylu" autora.
 - Nie podawaj linków do wydawnictw, których nie ma w materiałach — oznacz `[LINK DO UZUPEŁNIENIA]`.
 - Nie zmieniaj kolejności części I–III ani nie usuwaj elementów oznaczonych MUSI.
@@ -397,6 +398,7 @@ Wariant dla metody B (ERŻ) — zamień punkt "2. Omówienie tematu" na:
 - Dobieraj perykopę, tajemnicę różańca i charakter modlitwy spontanicznej tak, by wszystkie trzy wskazywały na ten sam temat.
 - Cytaty już użyte w repozytorium możesz wykorzystać ponownie — mają zweryfikowane źródła.
 - Długość: omówienie tematu ok. 1–2 strony A4; cały konspekt bez tekstów pomocniczych ok. 2–4 stron.
+- Wersje do druku (PDF) i edytowalne (DOCX) generuje się z plików `.md` skryptem — zasady i publikacja na Google Drive: [instrukcja-publikacji-google-drive.md](instrukcja-publikacji-google-drive.md).
 
 ### 5.4. Lista kontrolna przed oddaniem konspektu
 
